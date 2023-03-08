@@ -5,14 +5,10 @@ An App we are making for the help purpose of  old age home people and orphanage 
 
 ##         
 
-[![GitHub Code Size](https://img.shields.io/github/languages/code-size/hackslash-nitp/cura)](https://github.com/hackslash-nitp/cura)
-[![ISSUES](https://img.shields.io/github/issues-raw/hackslash-nitp/cura)](https://github.com/hackslash-nitp/cura)
-[![last commit](https://img.shields.io/github/last-commit/hackslash-nitp/cura)](https://github.com/hackslash-nitp/cura)
 
-[![Contributors](https://img.shields.io/github/contributors/hackslash-nitp/cura)](https://github.com/hackslash-nitp/cura)
 [![Languages](https://img.shields.io/github/languages/count/hackslash-nitp/cura)](https://github.com/hackslash-nitp/cura)
-[![Contributors](https://img.shields.io/github/forks/hackslash-nitp/cura?style=social)](https://github.com/hackslash-nitp/cura)
-[![Watchers](	https://img.shields.io/github/watchers/hackslash-nitp/cura)](https://github.com/SrijanShovit/Hostelite-Android/) 
+
+
 
 
 ## Tech - Stack
@@ -40,16 +36,6 @@ An App we are making for the help purpose of  old age home people and orphanage 
 - requires the will and efforts of the users.
 
 
-## Our  Contributors:
-
-Contributions are always welcome!🙂
-
-<a href="https://github.com/hackslash-nitp/cura/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hackslash-nitp/cura" />
-</a>
-
-
-Made with [contrib.rocks](https://contrib.rocks).
 
 **If You ❤ love this🤩 ,do smash the ⭐star button!!!**
 
