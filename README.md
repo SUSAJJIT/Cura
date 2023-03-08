@@ -3,14 +3,6 @@
 An App we are making for the help purpose of  old age home people and orphanage children .Different kind of help and  facility we will provide through this app.
 
 
-##         
-
-
-[![Languages](https://img.shields.io/github/languages/count/hackslash-nitp/cura)](https://github.com/hackslash-nitp/cura)
-
-
-
-
 ## Tech - Stack
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="kotlin" width="40" height="40"/> </a><a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/dart.png" alt="jetpack compose" width="40" height="40"/> </a>
 <a href="https://www.figma.com/files/recent?fuid=1136340934546024856" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
